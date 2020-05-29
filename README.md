@@ -1,2 +1,2 @@
-# labs
+# Labs
 development repository of labs.
